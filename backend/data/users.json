@@ -1,0 +1,17 @@
+[
+  {
+    "email": "arjun@example.com",
+    "passwordHash": "password123",
+    "name": "Arjun Kumar"
+  },
+  {
+    "email": "sarah.k@example.com",
+    "passwordHash": "password123",
+    "name": "Sarah Koenig"
+  },
+  {
+    "email": "example@gmail.com",
+    "passwordHash": "12345678",
+    "name": "arjun"
+  }
+]
